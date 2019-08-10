@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25286869568",
+    "firebase_url": "https://smart-lab-9b1c1.firebaseio.com",
+    "project_id": "smart-lab-9b1c1",
+    "storage_bucket": "smart-lab-9b1c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25286869568:android:87475f7d3ca7ba53",
+        "android_client_info": {
+          "package_name": "com.example.smart_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25286869568-vhu3lvgooeh24h2kbi4j6cfi989jsgs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_system",
+            "certificate_hash": "e29475d7d2e9d67b4f46c7a05be29ca950a7f8e4"
+          }
+        },
+        {
+          "client_id": "25286869568-c4fjsgjhmfqdfhbghv2vuclq0ujf130q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7weC1X3M-eVIWmkSEI4s9KLXKjkVjm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25286869568-c4fjsgjhmfqdfhbghv2vuclq0ujf130q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
